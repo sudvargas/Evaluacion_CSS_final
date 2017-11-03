@@ -30,6 +30,14 @@ text-decoration: underline;
 	font-size: 26px;
 }
 
+.ul1>li:nth-child(2){
+  text-decoration: underline;
+}
+
+.ul1>li:nth-child(3){
+  text-decoration: underline;
+}
+
 .imagen_central{
   padding: 20px 50px 20px 50px;
   background-color: #82c3a6;
@@ -203,6 +211,7 @@ font-size: 12px;
   border-radius: 0px 0px 10px 0px ;
   background-color: #C6d5c5;
   width: 25%;}
+
 
 /*}*/
 @media all and (max-width: 900px) {

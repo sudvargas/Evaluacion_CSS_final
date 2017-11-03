@@ -12,7 +12,6 @@ font-family: 'Dancing Script';
 text-align: center;
 font-weight: bold;
 text-decoration: underline;
-
 }
 
 
@@ -28,6 +27,14 @@ text-decoration: underline;
   text-shadow:2px 2px 2px #02010a;
   text-decoration: none;
 	font-size: 26px;
+}
+
+.ul1>li:nth-child(1){
+  text-decoration: underline;
+}
+
+.ul1>li:nth-child(3){
+  text-decoration: underline;
 }
 
 #imagen_p  {
